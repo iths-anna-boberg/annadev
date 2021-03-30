@@ -1,0 +1,2 @@
+(self.webpackChunkannadev=self.webpackChunkannadev||[]).push([[678],{7704:function(e,n,t){"use strict";t.r(n);var a=t(7294),l={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};n.default=function(){return a.createElement("main",{style:l},a.createElement("title",null,"Anna - Web Developer"),a.createElement("h1",null,"Hej där!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-cfd4be6a20b9d024b63a.js.map
