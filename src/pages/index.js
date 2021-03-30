@@ -13,7 +13,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Anna - Web Developer</title>
       <h1>
-        Hej där!
+        Hej där! Vi ses snart.
       </h1>
       
     </main>
